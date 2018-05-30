@@ -1,0 +1,5 @@
+I:\Backup\Nithin\My Workspaces\Practicing\SQLAzureWebDemo\SQLAzureWebDemo\obj\Debug\ResolveAssemblyReference.cache
+I:\Backup\Nithin\My Workspaces\Practicing\SQLAzureWebDemo\SQLAzureWebDemo\bin\SQLAzureWebDemo.dll
+I:\Backup\Nithin\My Workspaces\Practicing\SQLAzureWebDemo\SQLAzureWebDemo\bin\SQLAzureWebDemo.pdb
+I:\Backup\Nithin\My Workspaces\Practicing\SQLAzureWebDemo\SQLAzureWebDemo\obj\Debug\SQLAzureWebDemo.dll
+I:\Backup\Nithin\My Workspaces\Practicing\SQLAzureWebDemo\SQLAzureWebDemo\obj\Debug\SQLAzureWebDemo.pdb
