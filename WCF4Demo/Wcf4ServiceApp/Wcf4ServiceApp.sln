@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcf4Lib", "Wcf4Lib\Wcf4Lib.csproj", "{1B11A803-F4D2-4B06-9CAF-1CAAAC286565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcf4Host", "Wcf4Host\Wcf4Host.csproj", "{7513CE40-F275-42A3-A1C0-DB1041F68401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcf4ConsoleHost", "Wcf4ConsoleHost\Wcf4ConsoleHost.csproj", "{CEB07F2E-5C74-4702-9DF3-A236D2194316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcf4WinSvcHost", "Wcf4WinSvcHost\Wcf4WinSvcHost.csproj", "{D865C828-6C12-460D-826A-5B469303686A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://dreamworkzindia:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Wcf4ConsoleHost\\Wcf4ConsoleHost.csproj
+		SccProjectName1 = Wcf4ConsoleHost
+		SccLocalPath1 = Wcf4ConsoleHost
+		SccProjectUniqueName2 = Wcf4Host\\Wcf4Host.csproj
+		SccProjectName2 = Wcf4Host
+		SccLocalPath2 = Wcf4Host
+		SccProjectUniqueName3 = Wcf4Lib\\Wcf4Lib.csproj
+		SccProjectName3 = Wcf4Lib
+		SccLocalPath3 = Wcf4Lib
+		SccProjectUniqueName4 = Wcf4WinSvcHost\\Wcf4WinSvcHost.csproj
+		SccProjectName4 = Wcf4WinSvcHost
+		SccLocalPath4 = Wcf4WinSvcHost
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B11A803-F4D2-4B06-9CAF-1CAAAC286565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B11A803-F4D2-4B06-9CAF-1CAAAC286565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B11A803-F4D2-4B06-9CAF-1CAAAC286565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B11A803-F4D2-4B06-9CAF-1CAAAC286565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7513CE40-F275-42A3-A1C0-DB1041F68401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7513CE40-F275-42A3-A1C0-DB1041F68401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7513CE40-F275-42A3-A1C0-DB1041F68401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7513CE40-F275-42A3-A1C0-DB1041F68401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB07F2E-5C74-4702-9DF3-A236D2194316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB07F2E-5C74-4702-9DF3-A236D2194316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB07F2E-5C74-4702-9DF3-A236D2194316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB07F2E-5C74-4702-9DF3-A236D2194316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D865C828-6C12-460D-826A-5B469303686A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D865C828-6C12-460D-826A-5B469303686A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D865C828-6C12-460D-826A-5B469303686A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D865C828-6C12-460D-826A-5B469303686A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
